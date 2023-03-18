@@ -22,7 +22,7 @@ nav {
     padding-left: 500px;
     margin-top: -50px;
 }
- li{
+nav li{
     display: inline-block;
     width: 130px;
 }
