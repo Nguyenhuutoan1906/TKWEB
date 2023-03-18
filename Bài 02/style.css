@@ -16,24 +16,24 @@ header{
  border-top-left-radius: 12px;
  border-top-right-radius: 12px;
 }
-.navbar {
+nav {
     font-size: 20px;
     text-align: center;
     padding-left: 500px;
     margin-top: -50px;
 }
-.navbar li{
+ li{
     display: inline-block;
     width: 130px;
 }
-.navbar ul{
+ ul{
     list-style: none;
 }
-.navbar a{
+ a{
     color: white;
     text-decoration: none;
 }
-.navbar a:hover{
+ a:hover{
     border-bottom: 2px solid aqua;
     padding-bottom: 5px;
     color: aqua;
