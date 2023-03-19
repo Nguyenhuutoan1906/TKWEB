@@ -12,23 +12,6 @@ header{
  border-top-left-radius: 12px;
  border-top-right-radius: 12px;
 }
-nav {
-    font-size: 20px;
-    text-align: center;
-    padding-left: 500px;
-    margin-top: -50px;
-}
-nav li{
-    display: inline-block;
-    width: 130px;
-}
- ul{
-    list-style: none;
-}
- a{
-    color: white;
-    text-decoration: none;
-}
 
 footer{
   padding: 20px;
