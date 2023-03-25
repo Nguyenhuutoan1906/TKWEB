@@ -23,13 +23,13 @@ header a{
 }
 
 header li{
-  float: both;
+  float: none;
   display: inline-block;
   padding: 20px;
 }
 
 header #branding{
-  float: both;
+  float: none;
 }
 
 header #branding h1{
